@@ -1,0 +1,26 @@
+#!/bin/bash
+array[0]="Life is Roblox."
+array[1]="God did."
+array[2]="Did the Drake vocals come in yet?"
+array[3]="Another one."
+array[4]="They dont want you to..."
+array[5]="Lion!"
+array[6]="Support me."
+array[7]="I have so much jewelry."
+array[8]="Tell them to bring out the whole ocean."
+array[9]="Call me asparagus."
+array[10]="Not everybody can talk cloth."
+array[11]="Budget Approved!"
+array[12]="I called her Chandalier."
+array[13]="Tell them to bring the yacht out."
+array[14]="Lets go golfing."
+array[15]="And perhaps what is this?"
+array[16]="Together were stronger."
+array[17]="Have you ever played Rugby?"
+array[18]="Dont be a fool, get a pool."
+array[19]="Call me Tangerine"
+array[20]="CAPUCINO!"
+
+size=${#array[@]}
+index=$(($RANDOM % $size))
+echo ${array[$index]}
