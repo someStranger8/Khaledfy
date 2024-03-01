@@ -14,5 +14,5 @@ sudo cp khaledfy /bin/
 ## Usage
 
 ```
-cowsay | khaledfy
+khaledfy | cowsay
 ```
