@@ -2,6 +2,8 @@
 
 The fortune command if it was actually good. Khaledfy is a linux command that displays random DJ Khaled quotes. 
 
+![Screenshot](2024-07-02-103643_hyprshot.png)
+
 ## Install
 
 ```
